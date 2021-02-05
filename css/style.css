@@ -1,0 +1,15 @@
+.pink-panther {
+  background: pink;
+  min-height: 200px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.border {
+  border: 1px solid black;
+  min-height: 200px;
+}
+
+span {
+  line-height: 200px;
+}
